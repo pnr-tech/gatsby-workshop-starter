@@ -1,4 +1,4 @@
-# Gatsby Starter - DSC KITRC VERSION
+# Gatsby Starter - DSC KITRC WORKSHOP
 
 ## Installation
 
