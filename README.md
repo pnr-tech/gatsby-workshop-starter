@@ -2,7 +2,7 @@
 
 ## Installation
 
-Fork repository
+**Fork this repository**
 
 Clone repository:
 
