@@ -23,8 +23,11 @@ To Build after development is complete:
 ## Links
 
 [Gatsby Portfolio Starters Library](https://www.gatsbyjs.org/starters/?c=Portfolio)
+
 [Gatsby Setup](https://www.gatsbyjs.org/tutorial/part-zero/)
+
 [Gatsby Building Blocks](https://www.gatsbyjs.org/tutorial/part-one/)
+
 [Netlify To Deploy Your Website](https://www.netlify.com/)
 
 ## Original Author
