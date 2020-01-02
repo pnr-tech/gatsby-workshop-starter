@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Strata by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Strata by HTML5 UP"
+    title: "Prajval Raval",
+    author: "Prajval Raval",
+    description: "A Gatsby Starter Portfolio Developed for DSC KITRC"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
