@@ -2,7 +2,9 @@
 
 ## Installation
 
-Clone This repository:
+Fork repository
+
+Clone repository:
 
     git clone your-github-repo-url
 
