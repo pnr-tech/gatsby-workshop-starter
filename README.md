@@ -12,18 +12,18 @@ http://gatsby-strata.surge.sh/
 
 Clone This repository:
 
-    `git clone https://github.com/PrajvalRaval/gatsby-starter-strata`
+    git clone https://github.com/PrajvalRaval/gatsby-starter-strata
 
 Install Dependencies:
 
-    `npm install`
+    npm install
 
 To Develop this site run:
 
-    `gatsby develop`
+    gatsby develop
 
 To Build after development is complete:
 
-    `gatsby build`
+    gatsby build
 
 You can also use [Netlify](https://www.netlify.com/) to deploy your site.
