@@ -4,7 +4,7 @@
 
 Clone This repository:
 
-    git clone https://github.com/PrajvalRaval/gatsby-starter-strata
+    git clone your-github-repo-url
 
 Install Dependencies:
 
