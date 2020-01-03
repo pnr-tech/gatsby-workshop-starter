@@ -38,4 +38,4 @@ Gatsby starter based on the Strata site template, designed by [HTML5 UP](https:/
 
 ## Preview
 
-http://gatsby-strata.surge.sh/
+http://gatsby-strata.surge.ssh/
